@@ -51,7 +51,8 @@ body{
   .footer {
   text-align: center;
   padding: 10px;
-  }  .footer input {
+  }  
+  .footer input {
     border: none;
     background-color: rgb(197, 195, 195);
     font-size: 18px;
